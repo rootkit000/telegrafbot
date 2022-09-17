@@ -3,7 +3,7 @@ const { Telegraf } = require('telegraf')
 var carro=['auto','carro','camion','vehiculo'];
 var saludo = ['hola','ola','jola','hola que tal?','ola como estas?',' hola como estas?',' hola,como estas?']
 
-const bot = new Telegraf('token')//coloca el token dentro de las comillas
+const bot = new Telegraf('5424404799:AAEfsFthcV3ZgrmyFyyD7v04XpXCzrt8ROo')//coloca el token dentro de las comillas
 
 
 bot.start((ctx)=> {
