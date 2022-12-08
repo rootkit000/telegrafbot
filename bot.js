@@ -43,6 +43,8 @@ bot.hears(patch, (ctx) => ctx.reply('https://www.mediafire.com/folder/f24bvky7ds
 
 bot.hears('radmin', (ctx) => ctx.reply('https://www.radmin-vpn.com'))
 
+bot.hears('bot', (ctx) => ctx.reply('https://t.me/gamerangerss/355'))
+
 bot.hears('instalar', (ctx) => ctx.reply(installES))
 bot.hears(install, (ctx) => ctx.reply(installEN))
 
