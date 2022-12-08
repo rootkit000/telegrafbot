@@ -47,7 +47,7 @@ bot.hears('instalar', (ctx) => ctx.reply(installES))
 bot.hears(install, (ctx) => ctx.reply(installEN))
 
 
-bot.hears('botsito', ( ctx.replyWithPhoto('https://t.me/gamerangerss/355'));
+bot.hears('botsito', ( ctx.replyWithPhoto('https://t.me/gamerangerss/355');)
 
 
 
