@@ -35,6 +35,9 @@ bot.on('sticker', (ctx) => ctx.reply('👍'))
 
 bot.hears('hi', (ctx) => ctx.reply('HI HITLER'))
 
+bot.hears('ef', (ctx) => ctx.reply('para jugar al Eastern front descargte el mod y el parche de compatiblidad aqui abajo'))
+bot.hears('ef', (ctx) => ctx.reply('https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-compatibility-patch-for-coh-2602'))
+bot.hears('ef', (ctx) => ctx.reply('https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-230-full'))
 
 
 bot.hears(Gamer, (ctx) => ctx.reply('https://www.mediafire.com/folder/6gc7o2koz1b39/CoH_ToV'))
@@ -43,7 +46,10 @@ bot.hears(patch, (ctx) => ctx.reply('https://www.mediafire.com/folder/f24bvky7ds
 
 bot.hears('radmin', (ctx) => ctx.reply('https://www.radmin-vpn.com'))
 
-bot.hears('bot', (ctx) => ctx.reply('https://t.me/gamerangerss/355'))
+bot.hears('mixed', (ctx) => ctx.reply('para jugar el mod mixed factions descargalo aki abajo y si deseas tienes un video tutorial ademas del archivo .TXT de instalacion'))
+bot.hears('mixed', (ctx) => ctx.reply('https://t.me/gamerangerss/355'))
+bot.hears('mixed', (ctx) => ctx.reply('https://www.youtube.com/watch?v=FygUCxra11c&t=43s'))
+
 
 bot.hears('instalar', (ctx) => ctx.reply(installES))
 bot.hears(install, (ctx) => ctx.reply(installEN))
