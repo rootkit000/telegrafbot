@@ -46,7 +46,7 @@ bot.hears(patch, (ctx) => ctx.reply('https://www.mediafire.com/folder/f24bvky7ds
 
 bot.hears('radmin', (ctx) => ctx.reply('https://www.radmin-vpn.com'))
 
-bot.hears('mixed', (ctx) => ctx.reply('para jugar el mod mixed factions descargalo aki abajo y si deseas tienes un video tutorial ademas del archivo .TXT de instalacion','https://t.me/gamerangerss/355'))
+bot.hears('mixed', (ctx) => ctx.reply('para jugar el mod mixed factions descargalo aki abajo y si deseas tienes un video tutorial ademas del archivo .TXT de instalacion:','https://t.me/gamerangerss/355'))
 bot.hears('mixed', (ctx) => ctx.reply('https://www.youtube.com/watch?v=FygUCxra11c&t=43s'))
 
 
