@@ -35,9 +35,7 @@ bot.on('sticker', (ctx) => ctx.reply('👍'))
 
 bot.hears('hi', (ctx) => ctx.reply('HI HITLER'))
 
-bot.hears('ef', (ctx) => ctx.reply('para jugar al Eastern front descargte el mod y el parche de compatiblidad aqui abajo'))
-bot.hears('ef', (ctx) => ctx.reply('https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-compatibility-patch-for-coh-2602'))
-bot.hears('ef', (ctx) => ctx.reply('https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-230-full'))
+bot.hears('ef', (ctx) => ctx.reply('para jugar al Eastern front descargte el mod y el parche de compatiblidad aqui abajo \n PARCHE COMPATIBLIDAD 206: \n https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-compatibility-patch-for-coh-2602 \n MOD: \n https://www.moddb.com/mods/coheastern-front/downloads/eastern-front-230-full'))
 
 
 bot.hears(Gamer, (ctx) => ctx.reply('https://www.mediafire.com/folder/6gc7o2koz1b39/CoH_ToV'))
